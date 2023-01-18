@@ -1,0 +1,15 @@
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.deps.json
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.runtimeconfig.json
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.AssemblyReference.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/refint/MethodsExercise.dll
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.pdb
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.genruntimeconfig.cache
+/Users/diamondmartinez-mccall/Desktop/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/ref/MethodsExercise.dll
